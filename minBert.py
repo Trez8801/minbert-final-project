@@ -1,1 +1,2 @@
-"I've made modfications to minBert"
+while True:
+    print('I\'m tired')
