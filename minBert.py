@@ -1,4 +1,1 @@
-'Sample string in minBert'
-'even more changes to this branch'
-'more tests'
-'final tests'
+"I've made modfications to minBert"
